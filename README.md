@@ -1,0 +1,2 @@
+# RF_Project
+The idea is that a CNN trained directly on the spectrogram image of the microDoppler returns from the radar can achieve better classification rates than the traditional feature-extraction method. A CNN trained in this way could decide which features most effectively classify the data rather than relying on humans to extract features they believe are most important for the machine to classify on.
